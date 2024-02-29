@@ -1,2 +1,3 @@
-# bd_labs
-My labs for bd lessons
+# database labs
+
+My labs for database lessons
